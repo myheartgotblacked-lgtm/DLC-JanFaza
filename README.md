@@ -37,7 +37,7 @@ Built with Python and Tkinter, this project provides quick access to important W
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/DLC-JanFaza.git
+git clone https://github.com/YOUR-myheartgotblacked-lgtm/DLC-JanFaza.git
 ```
 
 ### 2. Open the project folder
